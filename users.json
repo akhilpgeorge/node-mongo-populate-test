@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "name": "Robin",
+      "age": 72,
+      "email": "Robin@gmail.com",
+      "profile": {
+        "address": "Newyork, London",
+        "phone_number": "+56569565",
+        "blood_group": "B+",
+        "full_name": "Robin Edwerd"
+      }
+    },
+    {
+      "name": "Philip",
+      "age": 62,
+      "email": "philip@gmail.com",
+      "profile": {
+        "address": "Texas, Houston",
+        "phone_number": "+54822212252",
+        "blood_group": "o+",
+        "full_name": "Philip Mayer"
+      }
+    }
+  ]
+}
